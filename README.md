@@ -5,7 +5,7 @@
 | No.  | Competition.                                                 | task                  | model                  |review & code                                                |
 | ---- | ------------------------------------------------------------ | --------------------- | --------------------- | ------------------------------------------------------------ |
 | 1    | [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime) |     Multiclassification      |      XGB+Bayopt      | [Note](https://colab.research.google.com/github/sejin-sim/Competitions/blob/main/%5BKAGGLE%5D_San_Francisco_Crime_Classification.ipynb) |
-| 2    | [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/overview) | Anomaly Detection |      XGB+Bayopt      | |[Note](https://colab.research.google.com/github/sejin-sim/Competitions/blob/main/%5BKAGGLE%5D_IEEE_CIS_fraud_detection.ipynb) |
+| 2    | [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/overview) | Anomaly Detection |      XGB+Bayopt      | [Note](https://colab.research.google.com/github/sejin-sim/Competitions/blob/main/%5BKAGGLE%5D_IEEE_CIS_fraud_detection.ipynb) |
 
 ## Dacon
 
