@@ -18,5 +18,5 @@
 
 | No.  | Competition.                                                 | task                  | model                  |review & code                                                |
 | ---- | ------------------------------------------------------------ | --------------------- | --------------------- | ------------------------------------------------------------ |
-| 1    | 2D Materials Database |  Classfication + Regression   |  Pycaret(AutoML) + Bayopt | [Note](https://colab.research.google.com/github/sejin-sim/Competitions/blob/main/%5BLecture%5D_2D_Materials_Database.ipynb) |
+| 1    | 2D Materials Database |  Multiclass & Reg   |  Pycaret(AutoML) + Bayopt | [Note](https://colab.research.google.com/github/sejin-sim/Competitions/blob/main/%5BLecture%5D_2D_Materials_Database.ipynb) |
 
