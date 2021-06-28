@@ -20,4 +20,5 @@
 | No.  | Competition.                                                 | task                  | model                  |review & code                                                |
 | ---- | ------------------------------------------------------------ | --------------------- | --------------------- | ------------------------------------------------------------ |
 | 1    | 2D Materials Database |  Multiclass & Reg   |  Pycaret(AutoML) + Bayopt | [Note](https://colab.research.google.com/github/sejin-sim/Competitions/blob/main/%5BLecture%5D_2D_Materials_Database.ipynb) |
+| 2    | Fast Wearable Sensor |  Vision   |  CNN | [Note](https://colab.research.google.com/github/sejin-sim/Anomaly_Detection/blob/main/%5BLecture%5D_Fast_Wearable_Sensor.ipynb) |
 
